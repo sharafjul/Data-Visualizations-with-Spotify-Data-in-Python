@@ -5,10 +5,10 @@ Creating Data Visualizations with Spotify Data with Python
 I am using the "Streaming History0" and "YourLibrary" files from my Spotify account.
 
 Goal:
-Import Excel data
+Import Excel data.
 What day of the week are songs streamed most?
-Top 10 Streamed Songs
-Top 20 Streamed Artists
+Top 10 Streamed Songs.
+Top 20 Streamed Artists.
 How many songs belongs to each artist on your library ?
 
 Steps for preparing Data "StreamingHistory0":
