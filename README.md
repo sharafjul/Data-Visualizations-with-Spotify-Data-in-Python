@@ -34,3 +34,14 @@ Steps for preparing Data "StreamingHistory0":
 7. Add "Include Song" (songs played less than 2 min): 
      =IF(H2 >2,"Yes","No")
 
+
+Required tools and packages
+
+    Excel
+    Python 3.7.1
+
+Also, the following Python Libraries are needed:
+
+    pandas
+    numpy
+    matplotlib
